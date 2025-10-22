@@ -1,0 +1,5 @@
+{
+  "name": "Öğrenci Test Platformu",
+  "description": "Yöneticilerin testler oluşturabildiği ve öğrencilerin bu testleri çözebildiği rol tabanlı, modern bir online test platformu.",
+  "requestFramePermissions": []
+}
